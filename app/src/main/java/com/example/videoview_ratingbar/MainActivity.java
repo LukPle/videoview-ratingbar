@@ -19,7 +19,7 @@ import android.widget.VideoView;
  * Layout File: activity_main.xml
  * Video: https://mixkit.co/free-stock-video/waterfall-in-forest-2213/
  *
- * @author Lukas Plenk 
+ * @author Lukas Plenk
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
