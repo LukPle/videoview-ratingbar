@@ -9,7 +9,10 @@ The application serves as an example of these features.
 
 ## Features
 The setting of the app is a streaming portal that contains a video. The user can start the video by clicking play.
-A RatingBar underneath the video allows for giving feedback in form of 0 to 5 stars. The rating gets submitted via a Button.
+A RatingBar underneath the video allows for giving feedback in form of 0 to 5 stars. The rating gets submitted via a Button. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
